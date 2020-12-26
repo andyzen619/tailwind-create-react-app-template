@@ -9,6 +9,8 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "autoprefixer": "^9",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.21.5",
     "postcss": "^7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -39,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0"
   }
 }
