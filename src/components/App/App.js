@@ -1,4 +1,3 @@
-/* eslint-disable valid-jsdoc */
 import React from 'react';
 
 import logo from '../../images/logo.svg';
@@ -6,7 +5,7 @@ import './App.css';
 
 /**
  * The main component that houses that app.
- * @returns {component}
+ * @return {component}
  */
 function App() {
   return (
